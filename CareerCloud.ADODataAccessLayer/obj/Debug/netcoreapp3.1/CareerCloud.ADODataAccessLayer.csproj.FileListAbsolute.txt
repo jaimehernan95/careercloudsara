@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.deps.json
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.dll
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.dll
+C:\Users\admin\Desktop\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.pdb
